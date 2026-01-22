@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubariz05&label=Profile%20views&color=0e75b6&style=flat" alt="mubariz05" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, React**
+-  I’m currently learning **HTML, CSS, Javascript, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mubariz05](https://github.com/mubariz05)
+-  All of my projects are available at [https://github.com/mubariz05](https://github.com/mubariz05)
 
-- 💬 Ask me about **HTML, CSS, Javascript,React**
+-  Ask me about **HTML, CSS, Javascript,React**
 
-- 📫 How to reach me **imanlimubariz@gmail.com**
+-  How to reach me **imanlimubariz@gmail.com**
 
-- ⚡ Fun fact **write code, watch movies, sports**
+-  Fun fact **write code, watch movies, sports**
 
 <h3 align="left">Connect with me:</h3>
 
