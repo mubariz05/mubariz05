@@ -1,52 +1,97 @@
-<h1 align="center">Hi 👋, I'm Mubariz</h1>
-<h3 align="center">A passionate Web Desing Developer from Azerbaijan</h3>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubariz05&label=Profile%20views&color=0e75b6&style=flat" alt="mubariz05" /> </p>
+# Hi, I'm Mubariz 👋
 
--  I’m currently learning **HTML, CSS, Javascript, React**
+### Frontend Developer • HTML / CSS / JavaScript • React
 
--  All of my projects are available at [https://github.com/mubariz05](https://github.com/mubariz05)
+<img src="https://komarev.com/ghpvc/?username=mubariz05&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
--  Ask me about **HTML, CSS, Javascript,React**
+</div>
 
--  How to reach me **imanlimubariz@gmail.com**
+---
 
--  Fun fact **write code, watch movies, sports**
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
+I'm a frontend developer from Azerbaijan who loves building visually sharp and interactive web experiences.
+I care about every detail — from clean HTML structure to smooth CSS animations.
 
+- 🌐 Portfolio → [mubariz.space](https://mubariz.space)
+- 📧 Reach me at **imanlimubariz@gmail.com**
+- ⚡ Fun fact: write code, watch movies, sports
 
-<p align="left">
-<a href="https://linkedin.com/in/mubariz-imanov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mubariz-imanov/" height="30" width="40" /></a>
-</p>
+---
 
+## 🚀 Core Technologies
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,sass,tailwind,bootstrap,nodejs,postgresql,mysql,git,figma,docker,webpack,babel" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-              <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-                    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-                      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer">
-                          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-                              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-                                <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-                                  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubariz05&show_icons=true&locale=en&layout=compact" alt="mubariz05" /></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Responsive%20Design-121212?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/REST%20API-121212?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-121212?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-121212?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-121212?style=for-the-badge&logo=dotnet&logoColor=white" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mubariz05&show_icons=true&locale=en" alt="mubariz05" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubariz05&" alt="mubariz05" /></p>
+## 💼 Technical Expertise
+
+### Frontend Development
+- HTML5 / CSS3
+- JavaScript (ES6+)
+- React.js / Next.js
+- Tailwind CSS / Sass / SCSS
+- Bootstrap
+- Responsive & Mobile-First Design
+- Webpack / Babel
+
+### State Management & APIs
+- Redux
+- REST API Integration
+
+### Backend & Database
+- Node.js
+- MySQL / PostgreSQL / MS SQL Server
+
+### Tooling & Design
+- Git
+- Figma
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mubariz05&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mubariz05&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubariz05&theme=tokyonight" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  &nbsp;
+  <a href="https://linkedin.com/in/mubariz-imanov/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+### Turning ideas into interfaces, one component at a time.
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" />
+
+</div>
