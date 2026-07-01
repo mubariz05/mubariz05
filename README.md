@@ -24,7 +24,7 @@ I care about every detail — from clean HTML structure to smooth CSS animations
 ## 🚀 Core Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,sass,tailwind,bootstrap,nodejs,postgresql,mysql,git,figma,docker,webpack,babel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,bootstrap,nodejs,postgresql,mysql,git,figma,docker,webpack,babel,firebase,discord,vscode,windows" />
 </div>
 
 <br/>
